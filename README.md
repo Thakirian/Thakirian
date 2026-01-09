@@ -1,16 +1,20 @@
-## Hi there 👋
+### Olá! Eu sou Thaisse 👋
 
-<!--
-**Thakirian/Thakirian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Engenharia de Software** e estou em busca da minha primeira oportunidade de estágio na área de TI.
 
-Here are some ideas to get you started:
+Atualmente, estou seguindo um cronograma intensivo de estudos focado em desenvolvimento de software e boas práticas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 O que estou estudando agora
+* **Foco Técnico:**
+* **Fundamentos:** Estrutura de Dados, Algoritmos e Lógica de Programação
+* **Projeto Atual:** Desenvolvimento do TCC focado em Prototipação e Design Centrado no Usuário
+
+---
+
+#### 📫 Onde me encontrar
+* https://www.linkedin.com/in/thaissekirianveiga/
+* thakirian@gmail.com
+
+---
+
+⭐️ *Este repositório é meu diário de bordo técnico. Sinta-se à vontade para explorar meus projetos!*
