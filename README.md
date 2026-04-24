@@ -1,6 +1,6 @@
 ### Olá! Eu sou Thaisse 👋
 
-Sou estudante de **Engenharia de Software** e estou em busca da minha primeira oportunidade de estágio na área de TI.
+Sou estudante de **Engenharia de Software**, atualmente estou no  8º período.
 
 Atualmente, estou seguindo um cronograma intensivo de estudos focado em desenvolvimento de software e boas práticas.
 
